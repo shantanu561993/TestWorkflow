@@ -1,0 +1,6 @@
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\bin\Release\TestWorkflow.exe.config
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\bin\Release\TestWorkflow.exe
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\bin\Release\TestWorkflow.pdb
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Release\TestWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Release\TestWorkflow.exe
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Release\TestWorkflow.pdb

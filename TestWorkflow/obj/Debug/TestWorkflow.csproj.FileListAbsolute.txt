@@ -1,0 +1,7 @@
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\bin\Debug\TestWorkflow.exe.config
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\bin\Debug\TestWorkflow.exe
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\bin\Debug\TestWorkflow.pdb
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Debug\TestWorkflow.csprojAssemblyReference.cache
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Debug\TestWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Debug\TestWorkflow.exe
+C:\Users\intruder\source\repos\TestWorkflow\TestWorkflow\obj\Debug\TestWorkflow.pdb
